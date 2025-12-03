@@ -47,7 +47,7 @@ address = Console.ReadLine();
 Console.WriteLine("House number: ");
 housenomber = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Order #1");
+Console.WriteLine("Order #3");
 Console.WriteLine($"Client: {name}.");
 Console.WriteLine($"Product: {productname}, price {price} EUR.");
 Console.WriteLine($"Address: {address} {housenomber}.");
